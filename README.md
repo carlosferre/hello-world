@@ -1,2 +1,2 @@
 # hello-world
-first "hello world" project in git
+first "hello world" project in GIT, it was not written with big letters
